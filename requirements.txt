@@ -1,0 +1,10 @@
+gradio
+pandas
+numpy
+pickle
+matplotlib.pyplot
+seaborn
+PIL
+io
+torch
+transformers
