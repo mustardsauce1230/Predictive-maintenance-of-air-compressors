@@ -18,6 +18,6 @@ The dataset used to to train the model and as reference to emulate real time air
 
 System Diagram:
 
-    ![System Diagram](https://github.com/mustardsauce1230/Predictive-maintenance-of-air-compressors/blob/main/model_arch_air_comp.drawio.svg)
+    ![System Diagram](model_arch_air_comp.drawio.svg)
 
 
