@@ -16,4 +16,8 @@ The repo can accessed as deployed dashboard at HF Spaces at: https://huggingface
 
 The dataset used to to train the model and as reference to emulate real time air compressor predictions: https://www.kaggle.com/datasets/afumetto/predictive-maintenance-dataset-air-compressor
 
+System Diagram:
+
+    ![System Diagram](https://github.com/mustardsauce1230/Predictive-maintenance-of-air-compressors/blob/main/model_arch_air_comp.drawio.svg)
+
 
