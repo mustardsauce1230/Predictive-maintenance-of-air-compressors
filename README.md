@@ -18,6 +18,6 @@ The dataset used to to train the model and as reference to emulate real time air
 
 System Diagram:
 
-    ![System Diagram](model_arch_air_comp.drawio.svg)
+<img src="model_arch_air_comp.drawio.svg" alt="System Diagram" width="600"/>
 
 
