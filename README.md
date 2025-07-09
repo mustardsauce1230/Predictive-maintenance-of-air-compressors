@@ -12,9 +12,9 @@ short_description: Predictive Maintenance in air compressors
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
-The repo can accessed as deployed dashboard at HF Spaces at: https://huggingface.co/spaces/taan30/Air_Compressor_Risk_Monitoring
+The repo can accessed as a deployed dashboard at HF Spaces: https://huggingface.co/spaces/taan30/Air_Compressor_Risk_Monitoring
 
-The dataset used to to train the model and as reference to emulate real time air compressor predictions: https://www.kaggle.com/datasets/afumetto/predictive-maintenance-dataset-air-compressor
+The dataset used to to train the model and as a reference to emulate real time air compressor states: https://www.kaggle.com/datasets/afumetto/predictive-maintenance-dataset-air-compressor
 
 System Diagram:
 
