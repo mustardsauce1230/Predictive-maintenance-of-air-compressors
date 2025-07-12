@@ -20,4 +20,9 @@ System Diagram:
 
 <img src="model_arch_air_comp.drawio.svg" alt="System Diagram" width="600"/>
 
+To run on colab(much faster responses, typically under 10s):
+1)copy finetuning code and app.py to your notebook
+2)Add risk_cause_data500.jsonl, X_test and xgb_model.pkl to session
+3)Hit run and enter your API key from Weights&Biases
+(uploading the falcon_finetuned folder as well to the session storage will cause errors)
 
